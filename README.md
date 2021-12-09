@@ -19,7 +19,9 @@ Projeto tem o intuito de listar, criar e excluir grupos de cidades.
 1 - Executar utilizando o start.sh, apenas execute o arquivo start.sh que irá rodar a migration, criando o banco, tabelas e usuários solicitado e irá iniciar o servidor embutido do php;
 
 1.1 - para acessar digite no navegador localhost:8000
+
 <----------------------------------------------------->
+
 ***Executar sem utilizar o start.sh***
 2 - Rodar a migration dentro de database e irá fazer a criação do banco de dados, tabelas e usuários solicitado;
 
@@ -30,4 +32,5 @@ Projeto tem o intuito de listar, criar e excluir grupos de cidades.
             Comando: php -S localhost:8000
             
 2.2 - para acessar digite no navegador localhost:8000
+
 <----------------------------------------------------->
