@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+}
+
+#logo {
+  width: 60px;
+  height: 70px;
+  color: black;
+}
+
+.navbar {
+  background-color: rgb(17, 14, 14) !important;
+  box-shadow: 5px 3px 3px black;
+  color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(194, 184, 184, 0.55);
+  margin-left: 15px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  transition-duration: 0.3s;
+  color: rgb(82, 146, 82);
+}
+
+#card:hover {
+  transition-duration: 0.5s;
+  box-shadow: 10px 10px 10px black;
+}
+
+#card {
+  margin-top: 80px;
+  margin-bottom: 10px;
+}
+
+.card-img-top {
+  border-radius: 30px;
+}
+body {
+  background-image: url("../public/ind.jpg");
+}
+
+form {
+  text-align: center;
+}
+
+input {
+  margin-top: 10px;
+}
+
+label {
+  margin-right: 45px;
+  border-bottom: black;
+}
+
+.input-uf {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.label-municipio {
+  margin-right: 93px;
+}
+
+#btn {
+  margin-left: 18px;
+  margin-top: 8px;
+  margin-bottom: 30px;
+  width: 140px;
+  border-radius: 5px;
+  background-color: rgb(86, 219, 126);
+}
+
+.bn_add {
+  margin-left: 20px;
+  margin-top: 30px;
+  background: #3d94f6;
+  background-image: -webkit-linear-gradient(top, #3d94f6, #1e62d0);
+  background-image: -moz-linear-gradient(top, #3d94f6, #1e62d0);
+  background-image: -ms-linear-gradient(top, #3d94f6, #1e62d0);
+  background-image: -o-linear-gradient(top, #3d94f6, #1e62d0);
+  background-image: -webkit-gradient(to bottom, #3d94f6, #1e62d0);
+  -webkit-border-radius: 33px;
+  -moz-border-radius: 33px;
+  border-radius: 33px;
+  color: #000000;
+  font-family: Arial;
+  font-size: 42px;
+  font-weight: 900;
+  padding: 22px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337fed 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
