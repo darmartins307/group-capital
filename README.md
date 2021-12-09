@@ -6,9 +6,15 @@ Projeto tem o intuito de listar, criar e excluir grupos de cidades.
 
 
 *** Versão mysql 8.0.27 ***
+
 <----------------------------------------------------->
+
+
 *** Versão do php 7.3.11 ***
+
 <----------------------------------------------------->
+
+
 ***Executar a aplicação local pelo start.sh***
 1 - Executar utilizando o start.sh, apenas execute o arquivo start.sh que irá rodar a migration, criando o banco, tabelas e usuários solicitado e irá iniciar o servidor embutido do php;
 
